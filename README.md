@@ -1,6 +1,5 @@
 # Arduino_Tone
 
-通过arduino操控蜂鸣器演奏音乐
 
 就是通过ardunio 操控蜂鸣器，发出音乐。
 
@@ -20,7 +19,7 @@
 ================================  
     
 
-演示方式：将 pitchesNMB.h 和 xxx.ino 一起放入 对应 ino 文件的同名文件夹，
+演示方式：将 pitchesNMN.h 和 xxx.ino 一起放入 对应 ino 文件的同名文件夹，
 
    打开电脑，用 Arduino IDE 打开需要播放的 ino 文件，【验证】无误后，执行【上传】就可以听到乐曲播放了。
 
