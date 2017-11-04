@@ -2,18 +2,18 @@
  *《忆红莲》 曲谱
  *作词：孤簧
  *作曲：水琴
- *记谱：
- *bilibili ID = av
+ *PV：师语
+ *bilibili ID = av737481
  *曲谱输入：离枝 
  */
- #include "/home/litchi/Arduino/pitchesNMN.h" //设置好路径
+ #include "pitchesNMN.h" //设置好路径
  //曲谱:
  int melody[]={
   z6,g1,z5,z3,z2,z3,z5,z2,z3,0,//10
   z1,z3,z2,z5,z3,      //5
   0, d5,d6,z3,d7,z1,z2,z1,d7,d3,//10
-  d3,d5,d6,d6,z1,d7,d6,d5,d3,d2,d3,d7,d3,//13舞
-  0, d5,d6,z3,z2,z1,z2,z3,z5,z2,//10路
+  d3,d5,d6,d6,z1,d7,d6,d5,d3,d2,d3,d7,d3,//13 lu
+  0, d5,d6,z3,z2,z1,z2,z3,z5,z2,//10 lu
   d6,d7,z1,z3,z2,z2,z3,z1,z2,d6,//10 chu
   
   0, d5,d6,z3,d7,z1,z2,z1,d7,d3,//10 bu
