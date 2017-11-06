@@ -63,7 +63,7 @@
 
     // 为了区分, 设置好最小时间.
     // 建议持续时间 + 30% :
-    float pauseBetweenNotes = noteDuration * 1.0;
+    int pauseBetweenNotes = noteDuration * 1.0;
     delay(pauseBetweenNotes);
     // 停止:
     noTone(8);
