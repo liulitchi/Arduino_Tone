@@ -6,7 +6,7 @@
  *bilibili ID = av3259283
  *程序输入：离枝 
  */
- #include "/home/litchi/Arduino/pitchesNMN.h" //设置好路径
+ #include "pitchesNMN.h" //设置好路径
  //曲谱:
  int melody[]={
   z6,g1,g2,g5,g5,g3,g2,g1,g2,g3,//10
